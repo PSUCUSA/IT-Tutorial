@@ -95,3 +95,6 @@ fabric.properties
 *.iml
 out
 gen
+
+sample_solution.py
+*.pyc
