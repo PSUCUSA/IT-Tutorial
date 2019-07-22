@@ -1,5 +1,6 @@
 from Solution import Solution
 
+
 sol = Solution()
 
 assert sol.sum_list_1([]) == 0
