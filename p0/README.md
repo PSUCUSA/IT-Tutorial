@@ -14,19 +14,24 @@
 
 1. 在你自己的电脑上配置好本地 git 环境
    * Configuring your local git environment
-     `$ git config --global user.name "Your Username"`
-     `$ git config --global user.email "Your Email"`
-
+     ```
+     $ git config --global user.name "Your Username"
+     $ git config --global user.email "Your Email"
+     ```
    * Adding SSH key 
-     `$ ssh-keygen -t rsa -b 4096 -C "your@email.com"`
+     ```
+     $ ssh-keygen -t rsa -b 4096 -C "your@email.com"
+     ```
      复制`∼/.ssh/id_rsa.pub`里的 public key 到 GitHub Account 里
 
 2. 创建一个 branch 来准备开始你加下来的任务 (e.g. task_p0_yourName) 
 
-    `$ git branch < your-branch-name >  # to create your branch` 
-    `$ git checkout < your-branch-name >  # to switch to your new branch` 
-    `$ git push origin < your-branch-name # to push your new branch>` 
-    `$ git branch -a # to list all branches`
+    ```
+    $ git branch < your-branch-name >  # to create your branch
+    $ git checkout < your-branch-name >  # to switch to your new branch
+    $ git push origin < your-branch-name >  # to push your new branch
+    $ git branch -a  # to list all branches`
+    ```
 
 3. 创建一个用跟你自己 GitHub username 一样名字的文件夹 (e.g. v1siuol/)
 
