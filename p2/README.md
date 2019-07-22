@@ -12,10 +12,9 @@
 
 1. 阅读 Reference 列表里的内容 
 
-2. 完成[初识HTML+CSS](https://www.imooc.com/learn/9)前两章的内容 
+2. 完成<a href="https://www.imooc.com/learn/9" target="_blank">初识HTML+CSS</a>前两章的内容 
 
 3. 恭喜你已完成 p2 的所有任务啦！！！
-
 
 ### Reference
 

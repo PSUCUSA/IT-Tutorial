@@ -1,4 +1,4 @@
 # psu-cusa
 psu cusa tutorial
 
-Developed by PSUCUSA with ♥ 
+Developed by PSUCUSA IT with ♥ 
